@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tablette</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Reset</string>
+    <string name="ip">Adresse ip</string>
+    <string name="confirm">Confirmer</string>
+    <string name="adresse">192.168.0.17</string>
+
+</resources>
